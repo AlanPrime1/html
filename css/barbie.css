@@ -1,0 +1,80 @@
+@font-face{
+
+    font-family: barbie ;
+    src: url(Barbie.otf);
+}
+
+
+h1{
+    font-family: barbie;
+    font-size: 70px;
+    text-align: center;
+    color: red;
+   }
+
+   hr{
+    width: 50%;
+    height: 20px;
+    background: blueviolet;
+    border: none;
+    outline: none;
+   }
+
+
+   p{width: 50%;
+    text-align: justify;
+    margin: auto;
+
+   }
+
+
+
+
+img{
+
+    width: 395px;
+    height:300px;
+
+
+}
+.caixa{
+
+    width: 800px;
+    margin: auto;
+}
+
+
+   
+
+#trailer{
+    text-align: center;
+}
+
+#texto{
+
+    width: 50%;
+    display:block;
+    margin: auto;
+
+}
+
+#videoBarbie{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+body{
+
+    background: url('/images/walpaper.jpg');
+    background-size: cover;
+
+}
+
+marquee{
+width: 50%;
+display: block;
+margin: auto;
+
+
+}
